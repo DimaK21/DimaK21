@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
-<h3 align="center">Android-разработчик</h3>
+<h1 align="left">Привет 👋, меня зовут Дмитрий</h1>
+<h3 align="left">Android-разработчик</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
